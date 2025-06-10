@@ -1,3 +1,3 @@
 x = 10
 if x > 5:
-    print("É Maior que 5")
+    print("Sim Maior que 5")
