@@ -1,4 +1,4 @@
 def quadrado(n):
-    n * n
+   return n * n
 
 print(quadrado(4))
